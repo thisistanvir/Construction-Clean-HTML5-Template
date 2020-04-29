@@ -1,0 +1,191 @@
+/* Normal desktop :1200px. */
+@media only screen and (min-width: 1200px) and (max-width: 1500px) {
+    .header-top, .main-header {
+       padding-left: 0;
+       padding-right: 0;
+    }
+    .header-top.style-5, .main-header.style-5 {
+       margin-left: 15px;
+       margin-right: 15px;
+    }
+    .single-slider.slider-height, .single-slider.slider-height-3 {
+        min-height: 700px;
+    }
+    .main-menu li {
+        margin-left: 40px;
+    }
+    .slide-img.slider-full img {
+        width: 65%;
+    }
+
+}
+/* Normal desktop :992px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .header-top, .main-header {
+        padding-left: 0;
+        padding-right: 0;
+     }
+    .main-menu li, .header-btn {
+        margin-left: 23px;
+    }
+    .single-slider.slider-height, .single-slider.slider-height-3 {
+        min-height: 600px;
+    }
+    .slider-content h1 {
+        font-size: 50px;
+    }
+    .single-blog-wrap {
+        padding: 20px;
+    }
+    .slide-img.slider-full img {
+        width: 50%;
+    }
+    .slider-height-3 .slider-content h1 {
+        font-size: 70px;
+    }
+    .single-team-box {
+        padding: 25px 10px;
+    }
+    .header-top.style-5, .main-header.style-5 {
+        margin-left: 30px;
+        margin-right: 30px;
+     }
+     .main-header.style-5 {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .update-cart .btn {
+        margin-bottom: 10px;
+    }
+
+}
+/* Tablet desktop :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .header-top, .main-header {
+        padding-left: 0;
+        padding-right: 0;
+     }
+    .main-header {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .single-slider.slider-height {
+        min-height: 550px;
+    }
+    .promotional-text {
+        padding-left: 0px;
+    }
+    .main-menu li {
+        margin-left: 24px;
+    }
+    .single-testimonial {
+        padding: 0 20px 35px;
+    }
+    .single-slider.slider-height-3 {
+        min-height: 450px;
+    }
+    .slider-height-3 .slider-content h1 {
+        font-size: 55px;
+    }
+    .main-header.style-5 {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+}
+/* small mobile :320px. */
+@media only screen and (max-width: 767px) {    
+    .header-top, .main-header {
+        padding-left: 0;
+        padding-right: 0;
+     }
+    .main-header {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .head-img img {
+        width: 100%;
+    }
+    .single-slider.slider-height, .single-slider.slider-height-3 {
+        min-height: 500px;
+    }
+    .slider-content span {
+        letter-spacing: 4px;
+    }
+    .slider-content h1 {
+        font-size: 35px;
+    }
+    .slider-content p {
+        padding-right: 0;
+    }
+    .feature-title h2 {
+        font-size: 30px;
+    }
+    .promotional-img {
+        display: none;
+    }
+    .promotional-text {
+        padding-left: 0;
+    }
+    .portfolio-menu > button {
+        margin: 0;
+    }
+    .single-blog-wrap {
+        padding: 10px;
+    }
+    .extra-info {
+        width: 310px;
+    }
+    .style-2 .promotional-text {
+        padding: 50px 0;
+    }
+    .mobile-menu-3.mean-container a.meanmenu-reveal {
+        top: 10px;
+    }
+    .single-slider.slider-height-3 {
+        min-height: 250px;
+    }
+    .slider-height-3 .slider-content h1 {
+        font-size: 35px;
+    }
+    .breadcrumb-content h1 {
+        font-size: 65px;
+    }
+    blockquote {
+        margin-left: 10px;
+    }
+    .comment-text {
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    .comment-avatar {
+        float: none;
+    }
+    .comment-box.replay {
+        padding-left: 50px;
+    }
+    .pro-comments-img {
+        float: none;
+        margin-bottom: 20px;
+    }
+    .pro-comments-text {
+        margin-left: 0;
+    }
+    .product-dec h2 {
+        font-size: 27px;
+    }
+    .update-cart .btn {
+        margin-bottom: 10px;
+    }
+    .coupon-left input {
+        margin-right: 0;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+ 
+}
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
