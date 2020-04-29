@@ -38,4 +38,4 @@ https://thisistanvir.github.io/Construction-Clean-HTML5-Template/
    * Product Details Page
    
    
-
+![image](https://user-images.githubusercontent.com/56197895/80626340-1ca88d80-8a70-11ea-94ad-b71e3993735f.png)
